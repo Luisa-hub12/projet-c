@@ -1,5 +1,5 @@
 # Editeur SVG en ligne de commande
-
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Luisa-hub12_projet-c&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Luisa-hub12_projet-c)
 ## Description
 Ce projet permet de créer, éditer, sauvegarder et charger des structures graphiques similaires au format SVG via une interface en ligne de commande.
 
